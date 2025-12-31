@@ -6,7 +6,7 @@
   Iskustvo u konfiguraciji i održavanju mrežnih sistema, sigurnosnih politika i server infrastrukture.  
   Rad sa protokolima (TCP/IP, DNS, DHCP), mrežnim uređajima (ruteri, switch-evi), te monitoring i optimizacija performansi.
 
-# Full Stack developer.
+# Full Stack Developer.
 “Radim sa modernim web framework-ima”
 “Iskustvo u backend razvoju sa Python + FastAPI”
 “Frontend: React, Redux, Tailwind, Sass/SCSS”
