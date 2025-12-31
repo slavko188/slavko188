@@ -1,6 +1,6 @@
 
 
-<!--
+
 ## 🛠 Professional Skills
 - **Mrežni administrator**  
   Iskustvo u konfiguraciji i održavanju mrežnih sistema, sigurnosnih politika i server infrastrukture.  
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
  slavkoroganovic123@gmail.com
--->
+
