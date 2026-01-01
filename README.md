@@ -32,7 +32,7 @@ Docker,
 <p>
   Bases:
   <img src="https://www.kindpng.com/picc/m/151-1512550_mysql-logo-png-mysql-transparent-png.png" width="70" height="70" alt="mySQL"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1097/1*FuJozDgdOrP44kkA9f2p5Q.jpeg" width="40" height="40" alt="SQL" />
+  <img src="https://azuregems.io/static/6bd04be68aa84fc4a5a76833a47a2281/ac0c7/SqlServerless-6.png" width="40" height="40" alt="SQL" />
   <img src="https://namastetu.com/wp-content/uploads/2023/11/pngwing.com_-2048x2048.png" width="50" height="40" alt="MongoDB"/>
   <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" width="70" height="50" />
 </p>
