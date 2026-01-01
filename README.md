@@ -29,6 +29,10 @@ Docker,
   <img src="https://gegocart.com/wp-content/uploads/2020/02/tailwindcss_logo.jpg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Server/Linux"/>
 </p>
+<p>
+  Bases:
+  <img src="https://w7.pngwing.com/pngs/101/590/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" width="40" height="40" alt="mySQL"/>
+</p>
 
 
 - 👯 Raspolozan sam za saradnju 
