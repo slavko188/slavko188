@@ -33,7 +33,7 @@ Docker,
   Bases:
   <img src="https://www.kindpng.com/picc/m/151-1512550_mysql-logo-png-mysql-transparent-png.png" width="70" height="70" alt="mySQL"/>
   <img src="https://miro.medium.com/v2/resize:fit:1097/1*FuJozDgdOrP44kkA9f2p5Q.jpeg" width="40" height="40" alt="SQL" />
-  <img src="https://clipground.com/images/mongodb-png-logo-7.png" width="40" height="40" alt="MongoDB"/>
+  <img src="https://clipground.com/images/mongodb-png-logo-7.png" width="60" height="60" alt="MongoDB"/>
 </p>
 
 
