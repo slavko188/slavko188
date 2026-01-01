@@ -26,7 +26,7 @@ Docker,
   <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp width="40" height="40" alt="Tailwind" />
+  <img src="https://gegocart.com/wp-content/uploads/2020/02/tailwindcss_logo.jpg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Server/Linux"/>
 </p>
 
