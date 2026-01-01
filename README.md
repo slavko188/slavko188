@@ -10,7 +10,7 @@
 “Radim sa modernim web framework-ima”
 Docker,
 “Iskustvo u backend razvoju sa Python + FastAPI”,Node.
-“Frontend: React, Redux,Axios,Tailwind,Sass/SCSS”
+“Frontend: React, Redux,Axios,Tailwind,Sass/SCSS”,"Rad sa Bazama":SQLite,SQL,MongoDB,Firbase.
 
 ##  Tehnologije za rad
 
