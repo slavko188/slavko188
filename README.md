@@ -3,7 +3,7 @@
 
 ## 🛠 Professional Skills
 - **Mrežni administrator**  
-  Iskustvo u konfiguraciji i održavanju mrežnih sistema, sigurnosnih politika i server infrastrukture.  
+   Konfiguracija i održavanje mrežnih sistema, sigurnosnih politika i server infrastrukture.  
   Rad sa protokolima (TCP/IP, DNS, DHCP), mrežnim uređajima (ruteri, switch-evi), te monitoring i optimizacija performansi.
 
 # Full Stack Developer.
