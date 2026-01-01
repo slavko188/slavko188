@@ -31,7 +31,7 @@ Docker,
 </p>
 <p>
   Bases:
-  <img src="https://w7.pngwing.com/pngs/101/590/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" width="70" height="70" alt="mySQL"/>
+  <img src="https://www.kindpng.com/picc/m/151-1512550_mysql-logo-png-mysql-transparent-png.png" width="40" height="40" alt="mySQL"/>
 </p>
 
 
