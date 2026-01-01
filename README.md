@@ -8,7 +8,8 @@
 
 # Full Stack Developer.
 “Radim sa modernim web framework-ima”
-“Iskustvo u backend razvoju sa Python + FastAPI”,Docker,
+Docker,
+“Iskustvo u backend razvoju sa Python + FastAPI”,Node.
 “Frontend: React, Redux, Tailwind,Sass/SCSS”
 
 ##  Tehnologije za rad
