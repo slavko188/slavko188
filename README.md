@@ -8,7 +8,7 @@
 
 # Full Stack Developer.
 “Radim sa modernim web framework-ima”
-Docker,
+Docker,Alembic(Migracija)
 “Iskustvo u backend razvoju sa Python + FastAPI”,Node.
 “Frontend: React, Redux,Axios,Tailwind,Sass/SCSS”,"Rad sa Bazama":SQLite,SQL,MongoDB,Firbase.
 
